@@ -18,6 +18,12 @@ Tool for obtaining WeChat database and decrypting cache image keys
 
  **重要声明**：本项目仅供技术研究和学习使用，严禁用于任何恶意或非法目的。  
  
+> [!CAUTION]
+> **安全警示：[关于商业欺诈与盗版行为的声明](SECURITY_ADVISORY.md)**
+
+> [!CAUTION]
+> **通知：本项目即日起永久停止更新，不再回复任何issue**
+
  如果这个项目对你有帮助，请给我一个 Star ❤️
 
 ---
